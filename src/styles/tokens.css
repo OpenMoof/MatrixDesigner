@@ -1,0 +1,88 @@
+:root {
+
+  --om-bg:            #17181C;
+  --om-surface:       #27292D;
+  --om-inset:         #2E3034;
+  --om-border:        #3A3C41;
+
+  --om-ink:           #FAFAFA;
+  --om-accent:        #FCC051;
+  --om-on-accent:     #0F0F0F;
+
+  --om-success:       #34C759;
+  --om-warning:       #FFD60A;
+  --om-danger:        #FF453A;
+  --om-muted:         #8E8E93;
+  --om-on-danger:     #FFFFFF;
+
+  --om-scrim:         rgba(0, 0, 0, 0.6);
+  --om-ink-wash:      rgba(250, 250, 250, 0.35);
+  --om-accent-wash:   rgba(252, 192, 81, 0.22);
+
+  --om-emph-primary:  1;
+  --om-emph-body:     0.75;
+  --om-emph-sub:      0.6;
+  --om-emph-hint:     0.55;
+  --om-emph-label:    0.5;
+  --om-emph-idle:     0.35;
+  --om-emph-faint:    0.3;
+
+  --om-font-digit:    "Doto", ui-monospace, "SF Mono", Menlo, monospace;
+  --om-font-ui:       "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  --om-weight-regular: 400;
+  --om-weight-semibold: 600;
+  --om-weight-bold:   700;
+
+  --om-text-nano:     9px;
+  --om-text-micro:    10px;
+  --om-text-tiny:     11px;
+  --om-text-small:    12px;
+  --om-text-body:     13px;
+  --om-text-label:    14px;
+  --om-text-base:     15px;
+  --om-text-lead:     16px;
+  --om-text-title:    18px;
+  --om-text-heading:  20px;
+  --om-text-readout:  24px;
+  --om-text-display:  28px;
+  --om-text-hero:     34px;
+
+  --om-radius-grab:   2px;
+  --om-radius-xs:     12px;
+  --om-radius-sm:     14px;
+  --om-radius-md:     16px;
+  --om-radius-lg:     20px;
+  --om-radius-dock:   22px;
+  --om-radius-card:   24px;
+  --om-radius-pill:   26px;
+  --om-radius-cta:    27px;
+  --om-radius-sheet:  28px;
+
+  --om-space-1:       2px;
+  --om-space-2:       4px;
+  --om-space-3:       6px;
+  --om-space-4:       8px;
+  --om-space-5:       10px;
+  --om-space-6:       12px;
+  --om-space-7:       14px;
+  --om-space-8:       16px;
+
+  --om-pad-compact:   12px;
+  --om-pad-card:      16px;
+
+  --om-hairline:      1px;
+  --om-control-sm:    32px;
+  --om-control-md:    38px;
+  --om-control-lg:    44px;
+  --om-control-xl:    52px;
+  --om-control-cta:   54px;
+  --om-segment-h:     60px;
+  --om-dock-h:        72px;
+  --om-dock-inset:    22px;
+  --om-tile-h:        172px;
+
+  --om-shadow-thumb:  0 2px 6px rgba(0, 0, 0, 0.35);
+
+  --om-dur-collapse:  200ms;
+  --om-ease:          cubic-bezier(0.2, 0.8, 0.2, 1);
+}
